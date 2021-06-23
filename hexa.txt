@@ -1,0 +1,1 @@
+Hexadecimal numerals are widely used by computer system designers and programmers because they provide a human-friendly representation of binary-coded values. In almost all modern use, the letters A–F or a–f represent the values 10–15, while the numerals 0–9 are used to represent their usual values.
